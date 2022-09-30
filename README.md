@@ -25,34 +25,38 @@ We have an IPL Matches Data of the year 2018-2019 containing detailed informatio
 
 
 ## Objective
-
+- Perform Exploratory Data Analysis and Data Visualization
 
 ## Programming Language & Tools
-
+- Python 
+- Jupyter Notebook
 
 ## Findings:
-- The frequency of the most man of the match awards won by a player,
-- The frequency of values present in "result" column,  
-- The number of toss wins w.r.t each team, 
-- The list of teams won batting first and batting second, 
-- The number of matches played each season, 
-- The number of matches played in each city, 
-- The number of times a team has won and not the match after winning the toss in different ways, 
-- The percentage of matches won by a team after winning a toss
+- The frequency of the most man of the match awards won by a player.
+- The frequency of values present in "result" column.
+- The number of toss wins w.r.t each team.
+- The list of teams won batting first and batting second. 
+- The number of matches played each season.
+- The number of matches played in each city. 
+- The number of times a team has won and not the match after winning the toss in different ways.
+- The percentage of matches won by a team after winning a toss.
 
 
 ## Visualizations:
-
-- Bar plot for the top 5 players with most man of the match awards, 
-- Histogram for number of matches won w.r.t number of runs, 
-- Bar plot and pie-chart for top 3 teams with most wins after batting first, 
-- Pie chart containing all the teams won after batting first, 
-- Bar plot for number of matches won w.r.t number of wickets, 
-- Bar plot for top 3 teams with most wins after batting second,
-- Pie chart containing all the teams won after batting second, 
+- Bar plot for the top 5 players with most man of the match awards.
+- Histogram for number of matches won w.r.t number of runs.
+- Bar plot and pie-chart for top 3 teams with most wins after batting first. 
+- Pie chart containing all the teams won after batting first.
+- Bar plot for number of matches won w.r.t number of wickets.
+- Bar plot for top 3 teams with most wins after batting second.
+- Pie chart containing all the teams won after batting second. 
 
 
 ## Inferences
+- The top players with the most man of the matches are CH Gayle(21 times), AB de Villiers(20 times), DA Warner(17 times), RG Sharma(17 times) and MS Dhoni(17 times).
+- Out of 756 matches, 743 matches got a winning and losing team(normal result), 9 matches were tied and 4 matches had no result.
+- 
+
 
 ## Results
 
