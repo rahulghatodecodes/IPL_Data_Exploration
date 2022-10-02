@@ -32,6 +32,8 @@ We have an IPL Matches Data of the year 2018-2019 containing detailed informatio
 - Jupyter Notebook
 
 ## Findings:
+- The total number of matches played by a team
+- The total number of wins of a team
 - The frequency of the most man of the match awards won by a player.
 - The frequency of values present in "result" column.
 - The number of toss wins w.r.t each team.
@@ -53,10 +55,11 @@ We have an IPL Matches Data of the year 2018-2019 containing detailed informatio
 
 
 ## Inferences
-- The top players with the most man of the matches are CH Gayle(21 times), AB de Villiers(20 times), DA Warner(17 times), RG Sharma(17 times) and MS Dhoni(17 times).
+- The top 5 team with most number of wins are Mumbai Indians (109 wins), Chennai Super Kings(100 wins), Kolkata Knight Riders(92 wins), Royal Challengers Bangalore(84 wins) and Kings XI Punjab(82).
+- The top 5 players with the most man of the matches are CH Gayle(21 times), AB de Villiers(20 times), DA Warner(17 times), RG Sharma(17 times) and MS Dhoni(17 times).
 - Out of 756 matches, 743 matches got a winning and losing team(normal result), 9 matches were tied and 4 matches had no result.
-- Top 3 teams that defended the total most number of times are Mumbai Indians(57 times), Chennai Super Kings(52 times) and Kings XI Punjab(38 times).
-- 
+- Top 3 teams that defended the target most number of times are Mumbai Indians(57 times), Chennai Super Kings(52 times) and Kings XI Punjab(38 times).
+- Top 3 teams that chased the target most number of times are Kolkata Knight Riders(56 times), Mumbai Indians(50 times) and Royal Challengers Bangalore(48 times).
 
 
 ## Results
