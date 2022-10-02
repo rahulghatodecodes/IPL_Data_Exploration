@@ -1,7 +1,6 @@
 # IPL Data 
 
 ## Overview
-
 We have an IPL Matches Data of the year 2018-2019 containing detailed information in the forms of fields mentioned below: 
 
 - id	
